@@ -1,0 +1,170 @@
+[
+  {
+    "id": 1,
+    "title": "Annual Tech Symposium",
+    "description": "Three days of cutting-edge technology workshops, hackathons, and keynote speeches from industry leaders in AI, blockchain, and cloud computing.",
+    "imageUrl": "https://images.unsplash.com/photo-1517430816045-df4b7de11d1d?ixlib=rb-1.2.1&auto=format&fit=crop&w=800&q=80",
+    "date": "March 15-17, 2024",
+    "time": "9:00 AM - 6:00 PM",
+    "location": "Engineering Block Auditorium",
+    "audience": "All Students",
+    "status": "upcoming",
+    "isFeatured": true,
+    "registrationForm": "https://forms.gle/techsymposium2024",
+    "organizer": "Computer Science Department",
+    "seats": 300,
+    "price": "Free",
+    "tags": [
+      "Technology",
+      "Workshop",
+      "Competition"
+    ]
+  },
+  {
+    "id": 2,
+    "title": "International Cultural Festival",
+    "description": "Celebrate diversity with food, music, and dance performances from around the world. Over 30 countries represented!",
+    "imageUrl": "https://images.unsplash.com/photo-1540575467063-178a50c2df87?ixlib=rb-1.2.1&auto=format&fit=crop&w=800&q=80",
+    "date": "April 5, 2024",
+    "time": "11:00 AM - 8:00 PM",
+    "location": "Main Quadrangle",
+    "audience": "Campus Community",
+    "status": "upcoming",
+    "isFeatured": true,
+    "registrationForm": "https://forms.gle/culturalfest2024",
+    "organizer": "International Students Office",
+    "seats": 500,
+    "price": "Free",
+    "tags": [
+      "Cultural",
+      "Food",
+      "Performance"
+    ]
+  },
+  {
+    "id": 3,
+    "title": "Career Fair 2024",
+    "description": "Meet recruiters from 50+ top companies including Google, Amazon, and local startups. Bring your resume!",
+    "imageUrl": "https://images.unsplash.com/photo-1521791055366-0d553872125f?ixlib=rb-1.2.1&auto=format&fit=crop&w=800&q=80",
+    "date": "February 28, 2024",
+    "time": "10:00 AM - 4:00 PM",
+    "location": "Sports Complex",
+    "audience": "Final Year Students",
+    "status": "upcoming",
+    "isFeatured": false,
+    "registrationForm": "https://forms.gle/careerfair2024",
+    "organizer": "Placement Cell",
+    "seats": 1000,
+    "price": "Free",
+    "tags": [
+      "Career",
+      "Networking",
+      "Recruitment"
+    ]
+  },
+  {
+    "id": 4,
+    "title": "Science Exhibition",
+    "description": "Showcase of student research projects in physics, chemistry, and biology with prizes for best projects.",
+    "imageUrl": "https://images.unsplash.com/photo-1532094349884-543bc11b234d?ixlib=rb-1.2.1&auto=format&fit=crop&w=800&q=80",
+    "date": "January 20, 2024",
+    "time": "10:00 AM - 3:00 PM",
+    "location": "Science Block",
+    "audience": "Science Students",
+    "status": "upcoming",
+    "isFeatured": false,
+    "registrationForm": "https://forms.gle/scienceexpo2024",
+    "organizer": "Science Faculty",
+    "seats": 200,
+    "price": "Free",
+    "tags": [
+      "Science",
+      "Exhibition",
+      "Research"
+    ]
+  },
+  {
+    "id": 5,
+    "title": "Sports Tournament Finals",
+    "description": "Championship matches for basketball, volleyball, and cricket with trophies and medals for winners.",
+    "imageUrl": "https://images.unsplash.com/photo-1540747913346-19e32dc3e97e?ixlib=rb-1.2.1&auto=format&fit=crop&w=800&q=80",
+    "date": "December 10, 2023",
+    "time": "2:00 PM - 6:00 PM",
+    "location": "College Stadium",
+    "audience": "All Students",
+    "status": "past",
+    "isFeatured": false,
+    "registrationForm": "",
+    "organizer": "Sports Department",
+    "seats": 800,
+    "price": "Free",
+    "tags": [
+      "Sports",
+      "Tournament",
+      "Finals"
+    ]
+  },
+  {
+    "id": 6,
+    "title": "Literary Fest",
+    "description": "Poetry slam, debate competition, and creative writing workshops with published authors.",
+    "imageUrl": "https://images.unsplash.com/photo-1507842217343-583bb7270b66?ixlib=rb-1.2.1&auto=format&fit=crop&w=800&q=80",
+    "date": "November 25, 2023",
+    "time": "9:30 AM - 5:00 PM",
+    "location": "Library Auditorium",
+    "audience": "All Students",
+    "status": "past",
+    "isFeatured": true,
+    "registrationForm": "",
+    "organizer": "English Department",
+    "seats": 150,
+    "price": "Free",
+    "tags": [
+      "Literature",
+      "Debate",
+      "Writing"
+    ]
+  },
+  {
+    "id": 7,
+    "title": "Startup Pitch Competition",
+    "description": "Student entrepreneurs pitch their business ideas to investors. Prize money of $10,000 for the winner!",
+    "imageUrl": "https://images.unsplash.com/photo-1551288049-bebda4e38f71?ixlib=rb-1.2.1&auto=format&fit=crop&w=800&q=80",
+    "date": "October 30, 2023",
+    "time": "1:00 PM - 5:00 PM",
+    "location": "Business School",
+    "audience": "Business Students",
+    "status": "past",
+    "isFeatured": true,
+    "registrationForm": "",
+    "organizer": "Entrepreneurship Cell",
+    "seats": 120,
+    "price": "Free",
+    "tags": [
+      "Business",
+      "Startup",
+      "Competition"
+    ]
+  },
+  {
+    "id": 8,
+    "title": "Mental Health Awareness Week",
+    "description": "Workshops and sessions on stress management, mindfulness, and emotional well-being.",
+    "imageUrl": "https://images.unsplash.com/photo-1498758536662-35b82cd15e29?ixlib=rb-1.2.1&auto=format&fit=crop&w=800&q=80",
+    "date": "September 18-22, 2023",
+    "time": "Various Times",
+    "location": "Student Center",
+    "audience": "All Students",
+    "status": "past",
+    "isFeatured": false,
+    "registrationForm": "",
+    "organizer": "Counseling Center",
+    "seats": 50,
+    "price": "Free",
+    "tags": [
+      "Health",
+      "Workshop",
+      "Wellness"
+    ]
+  }
+]

@@ -1,0 +1,104 @@
+/* Auth.css - Elegant Form Styling with Matching Palette */
+@import url("https://fonts.googleapis.com/css2?family=Alex+Brush&family=Cormorant+Garamond:ital,wght@0,300;0,400;0,500;0,600;0,700;1,300;1,400;1,500;1,600;1,700&family=Nunito+Sans:ital,opsz,wght@0,6..12,200..1000;1,6..12,200..1000&display=swap");
+
+.auth-container {
+  max-width: 400px;
+  margin: 4rem auto;
+  padding: 2.5rem;
+  background: #fff7ea;
+  border-radius: 15px;
+  box-shadow: 0 8px 24px rgba(0, 0, 0, 0.1);
+  font-family: "Nunito Sans", sans-serif;
+  color: #2c3e50;
+}
+
+.auth-container h2 {
+  font-family: "Cormorant Garamond", serif;
+  font-size: 2rem;
+  margin-bottom: 1.5rem;
+  text-align: center;
+  color: #a2783a;
+}
+
+.form-group {
+  margin-bottom: 1.2rem;
+}
+
+label {
+  display: block;
+  margin-bottom: 0.5rem;
+  font-weight: 600;
+  color: #2c3e50;
+}
+
+input[type="email"],
+input[type="password"],
+input[type="text"] {
+  width: 100%;
+  padding: 12px 15px;
+  border: 1px solid #e0d6c2;
+  border-radius: 10px;
+  font-size: 1rem;
+  font-family: "Nunito Sans", sans-serif;
+  background: rgba(255, 255, 255, 0.85);
+  transition: border 0.3s ease, box-shadow 0.3s ease;
+}
+
+input:focus {
+  border-color: #a2783a;
+  outline: none;
+  box-shadow: 0 2px 10px rgba(162, 120, 58, 0.2);
+}
+
+button[type="submit"] {
+  width: 100%;
+  background: #a2783a;
+  color: white;
+  padding: 12px;
+  border: none;
+  border-radius: 10px;
+  font-size: 1rem;
+  font-weight: 600;
+  cursor: pointer;
+  transition: background 0.3s ease;
+  font-family: "Nunito Sans", sans-serif;
+}
+
+button[type="submit"]:hover {
+  background: #8a6a3b;
+}
+
+.error {
+  color: #e74c3c;
+  margin-bottom: 1rem;
+  text-align: center;
+  font-weight: 500;
+}
+
+.auth-container p {
+  margin-top: 1.5rem;
+  text-align: center;
+  font-size: 0.95rem;
+  color: #7f8c8d;
+}
+
+a {
+  color: #a2783a;
+  text-decoration: none;
+  font-weight: 600;
+}
+
+a:hover {
+  text-decoration: underline;
+  color: #8a6a3b;
+}
+
+@media (max-width: 480px) {
+  .auth-container {
+    padding: 2rem 1.5rem;
+  }
+
+  .auth-container h2 {
+    font-size: 1.6rem;
+  }
+}
