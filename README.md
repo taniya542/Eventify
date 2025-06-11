@@ -39,7 +39,7 @@ Eventify is a web application designed to help users discover, create, and manag
         npm install
 
         # Install client dependencies
-        cd ../client
+        cd ../frontend
         npm install
 
 3. # From the root directory
