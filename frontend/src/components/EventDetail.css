@@ -14,7 +14,7 @@
   }
   
   .back-button:hover {
-    color: #3498db;
+    color: #a2783a;
   }
   
   .event-header {
@@ -64,7 +64,7 @@
   }
   
   .event-description h2 {
-    color: #2c3e50;
+    color: #a2783a;
     margin-bottom: 1rem;
   }
   
@@ -82,12 +82,12 @@
   }
   
   .detail-section h3 {
-    color: #3498db;
+    color: #a2783a;
     margin-bottom: 0.5rem;
   }
   
   .register-button {
-    background-color: #3498db;
+    background-color: #a2783a;
     color: white;
     border: none;
     padding: 1rem 2rem;
@@ -98,7 +98,7 @@
   }
   
   .register-button:hover {
-    background-color: #2980b9;
+    background-color:#a2783a;
   }
   
   .loading, .error {
@@ -181,7 +181,7 @@
   }
   
   .download-button {
-    background-color: #2196F3;
+    background-color: #2980b9;
     margin-bottom: 1rem;
   }
   
