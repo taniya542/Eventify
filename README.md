@@ -43,5 +43,5 @@ Eventify is a web application designed to help users discover, create, and manag
         npm install
 
 3. # From the root directory
-    npm start
+         npm start
 
